@@ -1,0 +1,7 @@
+F:\SoftUniHomeworks\ArraysExercises\TopIntegers\bin\Debug\TopIntegers.exe.config
+F:\SoftUniHomeworks\ArraysExercises\TopIntegers\bin\Debug\TopIntegers.exe
+F:\SoftUniHomeworks\ArraysExercises\TopIntegers\bin\Debug\TopIntegers.pdb
+F:\SoftUniHomeworks\ArraysExercises\TopIntegers\obj\Debug\TopIntegers.csprojAssemblyReference.cache
+F:\SoftUniHomeworks\ArraysExercises\TopIntegers\obj\Debug\TopIntegers.csproj.CoreCompileInputs.cache
+F:\SoftUniHomeworks\ArraysExercises\TopIntegers\obj\Debug\TopIntegers.exe
+F:\SoftUniHomeworks\ArraysExercises\TopIntegers\obj\Debug\TopIntegers.pdb

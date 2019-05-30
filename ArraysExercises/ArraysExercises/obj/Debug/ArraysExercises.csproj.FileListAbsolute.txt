@@ -1,0 +1,7 @@
+F:\SoftUniHomeworks\ArraysExercises\ArraysExercises\bin\Debug\ArraysExercises.exe.config
+F:\SoftUniHomeworks\ArraysExercises\ArraysExercises\bin\Debug\ArraysExercises.exe
+F:\SoftUniHomeworks\ArraysExercises\ArraysExercises\bin\Debug\ArraysExercises.pdb
+F:\SoftUniHomeworks\ArraysExercises\ArraysExercises\obj\Debug\ArraysExercises.csprojAssemblyReference.cache
+F:\SoftUniHomeworks\ArraysExercises\ArraysExercises\obj\Debug\ArraysExercises.csproj.CoreCompileInputs.cache
+F:\SoftUniHomeworks\ArraysExercises\ArraysExercises\obj\Debug\ArraysExercises.exe
+F:\SoftUniHomeworks\ArraysExercises\ArraysExercises\obj\Debug\ArraysExercises.pdb

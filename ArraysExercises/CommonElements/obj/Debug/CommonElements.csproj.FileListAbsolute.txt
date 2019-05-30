@@ -1,0 +1,6 @@
+F:\SoftUniHomeworks\ArraysExercises\CommonElements\bin\Debug\CommonElements.exe.config
+F:\SoftUniHomeworks\ArraysExercises\CommonElements\bin\Debug\CommonElements.exe
+F:\SoftUniHomeworks\ArraysExercises\CommonElements\bin\Debug\CommonElements.pdb
+F:\SoftUniHomeworks\ArraysExercises\CommonElements\obj\Debug\CommonElements.csproj.CoreCompileInputs.cache
+F:\SoftUniHomeworks\ArraysExercises\CommonElements\obj\Debug\CommonElements.exe
+F:\SoftUniHomeworks\ArraysExercises\CommonElements\obj\Debug\CommonElements.pdb

@@ -1,0 +1,7 @@
+F:\SoftUniHomeworks\ArraysExercisesMore\AnonymouseThread\bin\Debug\AnonymouseThread.exe.config
+F:\SoftUniHomeworks\ArraysExercisesMore\AnonymouseThread\bin\Debug\AnonymouseThread.exe
+F:\SoftUniHomeworks\ArraysExercisesMore\AnonymouseThread\bin\Debug\AnonymouseThread.pdb
+F:\SoftUniHomeworks\ArraysExercisesMore\AnonymouseThread\obj\Debug\AnonymouseThread.csprojAssemblyReference.cache
+F:\SoftUniHomeworks\ArraysExercisesMore\AnonymouseThread\obj\Debug\AnonymouseThread.csproj.CoreCompileInputs.cache
+F:\SoftUniHomeworks\ArraysExercisesMore\AnonymouseThread\obj\Debug\AnonymouseThread.exe
+F:\SoftUniHomeworks\ArraysExercisesMore\AnonymouseThread\obj\Debug\AnonymouseThread.pdb

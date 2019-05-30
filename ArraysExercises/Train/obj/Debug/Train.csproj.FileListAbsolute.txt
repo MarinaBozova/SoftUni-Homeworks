@@ -1,0 +1,7 @@
+F:\SoftUniHomeworks\ArraysExercises\Train\bin\Debug\Train.exe.config
+F:\SoftUniHomeworks\ArraysExercises\Train\bin\Debug\Train.exe
+F:\SoftUniHomeworks\ArraysExercises\Train\bin\Debug\Train.pdb
+F:\SoftUniHomeworks\ArraysExercises\Train\obj\Debug\Train.csprojAssemblyReference.cache
+F:\SoftUniHomeworks\ArraysExercises\Train\obj\Debug\Train.csproj.CoreCompileInputs.cache
+F:\SoftUniHomeworks\ArraysExercises\Train\obj\Debug\Train.exe
+F:\SoftUniHomeworks\ArraysExercises\Train\obj\Debug\Train.pdb

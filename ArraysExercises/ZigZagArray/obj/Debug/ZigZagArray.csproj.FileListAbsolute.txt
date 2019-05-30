@@ -1,0 +1,7 @@
+F:\SoftUniHomeworks\ArraysExercises\ZigZagArray\bin\Debug\ZigZagArray.exe.config
+F:\SoftUniHomeworks\ArraysExercises\ZigZagArray\bin\Debug\ZigZagArray.exe
+F:\SoftUniHomeworks\ArraysExercises\ZigZagArray\bin\Debug\ZigZagArray.pdb
+F:\SoftUniHomeworks\ArraysExercises\ZigZagArray\obj\Debug\ZigZagArray.csprojAssemblyReference.cache
+F:\SoftUniHomeworks\ArraysExercises\ZigZagArray\obj\Debug\ZigZagArray.csproj.CoreCompileInputs.cache
+F:\SoftUniHomeworks\ArraysExercises\ZigZagArray\obj\Debug\ZigZagArray.exe
+F:\SoftUniHomeworks\ArraysExercises\ZigZagArray\obj\Debug\ZigZagArray.pdb
